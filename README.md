@@ -10,7 +10,7 @@
   <p align="center">
     A simplified version of the public bot tenverse. It's open source! :0
     <br />
-    <a href="https://github.com/JoshyRBLX/custom-tenverse-bot"><strong>Explore the docs »</strong></a>
+    <a href="https://tenverse.link/"><strong>Explore our Website »</strong></a>
     <br />
     <br />
     <a href="https://get.tenverse.link">Add the Public Bot</a>
@@ -28,8 +28,8 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* NodeJS & NPM
+This is an example of how to install NodeJS & NPM and also on how to clone the Repository onto your local machine.
+* NodeJS & NPM (Ubuntu 18.04 - 20.04)
 ```sh
 curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
 sudo apt-get install nodejs
