@@ -5,8 +5,8 @@ const superagent = require('superagent');
 const nbx = require('noblox.js');
 require('dotenv').config()
 
-const TOKEN = process.env.TOKEN; // Set your bot token in the .env file
-const PREFIX = process.env.PREFIX; // Set your prefix in the .env file
+const TOKEN = process.env.TOKEN; // Set your bot token in the .env file - Please refer to the README.md file for more information
+const PREFIX = process.env.PREFIX; // Set your prefix in the .env file - Please refer to the README.md file for more information
 
 const standard = "#ffffff"; // Set the colour of the embed color here (HEX)
 
