@@ -3,9 +3,10 @@ const bot = new Discord.Client();
 
 const superagent = require('superagent');
 const nbx = require('noblox.js');
+require('dotenv').config()
 
-const TOKEN = ""; // Set your bot token here
-const PREFIX = ""; // Set your prefix here
+const TOKEN = process.env.TOKEN; // Set your bot token in the .env file
+const PREFIX = process.env.PREFIX; // Set your prefix in the .env file
 
 const standard = "#ffffff"; // Set the colour of the embed color here (HEX)
 

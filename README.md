@@ -46,6 +46,14 @@ git clone https://github.com/JoshyRBLX/custom-tenverse-bot
 npm install
 ```
 
+### Configurations
+
+* Edit the .env file and insert your credentials
+```sh
+TOKEN=your token here
+PREFIX=your prefix here
+```
+
 <!-- CONTACT -->
 ## Contact
 
