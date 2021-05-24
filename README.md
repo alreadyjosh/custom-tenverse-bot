@@ -5,7 +5,7 @@
     <img src="https://cdn.flyro.xyz/NxYo4" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">tenverse custom bot</h3>
+  <h3 align="center">tenverse custom bot (deprecated)</h3>
 
   <p align="center">
     A simplified version of the public bot tenverse. It's open source! :0
