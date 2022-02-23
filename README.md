@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/JoshyRBLX/custom-tenverse-bot">
-    <img src="https://cdn.flyro.xyz/NxYo4" alt="Logo" width="80" height="80">
+    <img src="https://pileshare.com/u/NxYo4" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">tenverse custom bot (deprecated)</h3>
